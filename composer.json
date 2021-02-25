@@ -1,3 +1,7 @@
 {
-  "name": "vendor_name/test-module"
+  "name": "vendor_name/test-module",
+  "type": "ppi-module",
+  "require": {
+    "composer/installers": "~1.0"
+  }
 }
